@@ -1,7 +1,7 @@
 ### Olá, meu nome é Lucas ✌😉
 - Sou Estudante de Programação buscando oportunidades para aplicar o conhecimento que venho adquirindo ao longo de meses. Aficionado por resolver problemas, utilizo dessas características para sempre aprender novos conceitos afim de expandir e aprimorar as minhas capacidades de criação e resolução. Resiliência e comprometimento são características que me definem.
 
-Conhecimentos
+Conhecimentos em:
 - Construção de API's RESTFul - (Express & Overnight)
 - Autenticação JWT
 - TypeScript
