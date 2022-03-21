@@ -1,4 +1,4 @@
-### Olá, Eu sou o Lucas Libório ✌😉
+### Olá, Bem vindo, meu nome é Lucas ✌😉
 - Sou Estudante de Programação buscando oportunidades para aplicar o conhecimento que venho adquirindo. Aficionado por resolver problemas, utilizo dessas características para sempre aprender novos conceitos afim de expandir e aprimorar as minhas capacidades de criação e resolução. Resiliência e comprometimento são características que me definem.
 
 Conhecimentos
