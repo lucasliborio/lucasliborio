@@ -9,7 +9,7 @@ Conhecimentos em:
 - ORM (Prisma & TypeORM)
 - Jest para testes (integração e unitarios)
 - Metologias Ageis (Scrum & Kaban)
-- Deploy (CI & CD) Heroku
+- Deploy Heroku (CI & CD) Travis and Coveralls
 - Docker
 - Conhecimento basico de TDD📊
 - Atualmente tenho dado foco nas Tecnologias NodeJS com TypeScript. Busco estudar os conceitos de Design de software com o intuito de criar codigos escalaveis e desacoplados, seguindo os padrões mais conhecidos.🤓🧐.
